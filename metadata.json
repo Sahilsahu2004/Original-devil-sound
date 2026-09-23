@@ -1,0 +1,6 @@
+{
+  "name": "Original Devil Sound",
+  "description": "Original Devil Sound brings DJ performance, high-power sound systems, laser lighting, and live event entertainment to weddings, festivals, and parties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
